@@ -1,0 +1,649 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "link": "",
+        "student": "Aine Logan",
+        "semester": 2
+      },
+      "geometry": {
+        "coordinates": [
+          -6.906116,
+          52.832906
+        ],
+        "type": "Point"
+      },
+      "id": "00b0d4fe41bb17b35711de08b1d78912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Beet st. Co-housing",
+        "link": "https://sashas-initial-project-999529.webflow.io/",
+        "student": "Sasha Kushnirenko",
+        "semester": 2
+      },
+      "geometry": {
+        "coordinates": [
+          -6.927677,
+          52.852732
+        ],
+        "type": "Point"
+      },
+      "id": "02fa80dd2b134494ef649d73f6b47d75"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Worker & Elderly Housing",
+        "link": "",
+        "student": "Rosie Feeney",
+        "semester": 2
+      },
+      "geometry": {
+        "coordinates": [
+          -6.560122,
+          52.867742
+        ],
+        "type": "Point"
+      },
+      "id": "0657a9deec5ca1ddeeb9e21e432ede7c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tullow Municipal Anaerobic Digestion Facility",
+        "link": "",
+        "student": "Avril Bradley",
+        "semester": 1
+      },
+      "geometry": {
+        "coordinates": [
+          -6.740032,
+          52.800907
+        ],
+        "type": "Point"
+      },
+      "id": "1c7c481870bdf1a52d5303932b879df7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "link": "",
+        "student": "Aoife Rooney",
+        "semester": 2
+      },
+      "geometry": {
+        "coordinates": [
+          -6.907451,
+          52.831921
+        ],
+        "type": "Point"
+      },
+      "id": "21dde1bd6d0b75b47a106fec37e59b32"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Abbey St. Multi-generational Housing",
+        "link": "",
+        "student": "Avril Bradley",
+        "semester": 2
+      },
+      "geometry": {
+        "coordinates": [
+          -6.738228,
+          52.801705
+        ],
+        "type": "Point"
+      },
+      "id": "26b25b67287cd42fdc819815a4208a7a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "PyroPower",
+        "link": "",
+        "student": "Rosie Feeney",
+        "semester": 1
+      },
+      "geometry": {
+        "coordinates": [
+          -6.559278,
+          52.866849
+        ],
+        "type": "Point"
+      },
+      "id": "2984ce0271c9d46223cff1065a349952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "link": "",
+        "student": "Hussain Wanas",
+        "semester": 2
+      },
+      "geometry": {
+        "coordinates": [
+          -6.937324,
+          52.83673
+        ],
+        "type": "Point"
+      },
+      "id": "298fec2461a19bf1446d82adbd2685fb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "link": "",
+        "student": "Kate Tierney",
+        "semester": 1
+      },
+      "geometry": {
+        "coordinates": [
+          -6.923813,
+          52.842349
+        ],
+        "type": "Point"
+      },
+      "id": "2d33c55c1b6a2ce52d66dfa3c1a270bb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Treehouse Co-housing",
+        "link": "",
+        "student": "Andrew Proudfoot",
+        "semester": 2
+      },
+      "geometry": {
+        "coordinates": [
+          -6.927552,
+          52.848515
+        ],
+        "type": "Point"
+      },
+      "id": "3172460f961d6fe6e9c8889643a71abe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "link": "",
+        "student": "Cian Windsor",
+        "semester": 2
+      },
+      "geometry": {
+        "coordinates": [
+          -6.905747,
+          52.833653
+        ],
+        "type": "Point"
+      },
+      "id": "416038cff53f4329989c1a7d9df5b443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "link": "",
+        "student": "Moa Hogart",
+        "semester": 1
+      },
+      "geometry": {
+        "coordinates": [
+          -6.936461,
+          52.854234
+        ],
+        "type": "Point"
+      },
+      "id": "432a842e655935a4f8140ede33eafdc8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wetlands",
+        "link": "",
+        "student": "Lera Dudina",
+        "semester": 1
+      },
+      "geometry": {
+        "coordinates": [
+          -6.933652,
+          52.845388
+        ],
+        "type": "Point"
+      },
+      "id": "4940929275d4705ef5495f99ce4bb425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Social Housing",
+        "link": "",
+        "student": "Lera Dudina",
+        "semester": 2
+      },
+      "geometry": {
+        "coordinates": [
+          -6.937762,
+          52.843247
+        ],
+        "type": "Point"
+      },
+      "id": "4c42389910dabe26f37ffd77de452cc2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "link": "",
+        "student": "Alex Mordaunt",
+        "semester": 2
+      },
+      "geometry": {
+        "coordinates": [
+          -6.93238,
+          52.836087
+        ],
+        "type": "Point"
+      },
+      "id": "544bc03379337e7af76a1aeb22e0dfe8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "link": "",
+        "student": "Aine Logan",
+        "semester": 1
+      },
+      "geometry": {
+        "coordinates": [
+          -6.906116,
+          52.831297
+        ],
+        "type": "Point"
+      },
+      "id": "6479fa785198fd0effce8c5492a0da01"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Re-Root, Carlow Town",
+        "link": "",
+        "student": "Finbarr Duerden",
+        "semester": 1
+      },
+      "geometry": {
+        "coordinates": [
+          -6.906422,
+          52.828739
+        ],
+        "type": "Point"
+      },
+      "id": "6570d35bdf771059dadcd587d5599fef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Project Seedscape",
+        "link": "https://sashas-initial-project-999529.webflow.io/",
+        "student": "Sasha Kushnirenko",
+        "semester": 1,
+        "image": "'https://i.postimg.cc/gjmmcDNc/seedbank-site-concept-axo.jpg'"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.930495,
+          52.851938
+        ],
+        "type": "Point"
+      },
+      "id": "6b7c359eb67ef6969a12180c542ba4e8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "link": "",
+        "student": "Linda D'Arcy",
+        "semester": 1
+      },
+      "geometry": {
+        "coordinates": [
+          -6.908664,
+          52.845268
+        ],
+        "type": "Point"
+      },
+      "id": "8088bd102a7fc99d476d29588c775fba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "link": "",
+        "student": "Linda D'Arcy",
+        "semester": 2
+      },
+      "geometry": {
+        "coordinates": [
+          -6.90871,
+          52.839803
+        ],
+        "type": "Point"
+      },
+      "id": "82cd3df42f34d46eed718d48ab9fe9ff"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Re-Carlow Workshop",
+        "link": "",
+        "student": "Conor O'Kelly",
+        "semester": 1
+      },
+      "geometry": {
+        "coordinates": [
+          -6.912339,
+          52.841302
+        ],
+        "type": "Point"
+      },
+      "id": "87cf25ad2127f06a4487d09ce7b65cae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "link": "",
+        "student": "Jack McCrann",
+        "semester": 2
+      },
+      "geometry": {
+        "coordinates": [
+          -6.931953,
+          52.843667
+        ],
+        "type": "Point"
+      },
+      "id": "8f6a4406eeaf011649c09f35731d6f53"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Carlow"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.926128,
+          52.840826
+        ],
+        "type": "Point"
+      },
+      "id": "ad02f24c889d0bf68677db8dd10cc62e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hydroponic Farm & Tree Nursery",
+        "link": "",
+        "student": "Andrew Proudfoot",
+        "semester": 1
+      },
+      "geometry": {
+        "coordinates": [
+          -6.930159,
+          52.848258
+        ],
+        "type": "Point"
+      },
+      "id": "b0107947eae2be9d60d22c068a3aca62"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "link": "",
+        "student": "Caroline Flynn",
+        "semester": 2
+      },
+      "geometry": {
+        "coordinates": [
+          -6.926986,
+          52.834571
+        ],
+        "type": "Point"
+      },
+      "id": "b1b8890e96b28600e56b3f845663dd24"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "link": "",
+        "student": "Kate Tierney",
+        "semester": 2
+      },
+      "geometry": {
+        "coordinates": [
+          -6.923403,
+          52.842396
+        ],
+        "type": "Point"
+      },
+      "id": "bd95ebb834d2559984e3dbcae06d4636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "link": "",
+        "student": "Hussain Wanas",
+        "semester": 1
+      },
+      "geometry": {
+        "coordinates": [
+          -6.929643,
+          52.839369
+        ],
+        "type": "Point"
+      },
+      "id": "c2e6574a5416ff071630463d57423e5a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Living with Dementia",
+        "link": "",
+        "student": "Conor O'Kelly",
+        "semester": 2
+      },
+      "geometry": {
+        "coordinates": [
+          -6.913976,
+          52.842118
+        ],
+        "type": "Point"
+      },
+      "id": "c2f4906adecb5af2b6f9b9b2f43705b8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "link": "",
+        "student": "Alex Mordaunt",
+        "semester": 1
+      },
+      "geometry": {
+        "coordinates": [
+          -6.930174,
+          52.839689
+        ],
+        "type": "Point"
+      },
+      "id": "ce2ca0831956db5c6fcb455d64a06aed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "link": "",
+        "student": "Cian Windsor",
+        "semester": 1
+      },
+      "geometry": {
+        "coordinates": [
+          -6.905088,
+          52.835596
+        ],
+        "type": "Point"
+      },
+      "id": "ce421c2255f5be01ad9579bb0ce70698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "link": "",
+        "student": "Philip Obrien",
+        "semester": 1
+      },
+      "geometry": {
+        "coordinates": [
+          -6.930245,
+          52.839155
+        ],
+        "type": "Point"
+      },
+      "id": "e26b8475ea4f632c37b4b4db69618062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "link": "",
+        "student": "Aoife Rooney",
+        "semester": 1
+      },
+      "geometry": {
+        "coordinates": [
+          -6.904933,
+          52.834355
+        ],
+        "type": "Point"
+      },
+      "id": "e8316e85929a06446daa5eec1734ae39"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Riparian Research Centre",
+        "link": "",
+        "student": "Jack McCrann",
+        "semester": 1
+      },
+      "geometry": {
+        "coordinates": [
+          -6.930616,
+          52.843597
+        ],
+        "type": "Point"
+      },
+      "id": "e996a89323ef64c7580a52c692f124d0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "link": "",
+        "student": "Ciarán Dolan",
+        "semester": 1
+      },
+      "geometry": {
+        "coordinates": [
+          -6.929117,
+          52.838825
+        ],
+        "type": "Point"
+      },
+      "id": "ef234aae094d9f577c5161391571243c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "link": "",
+        "student": "Ciarán Dolan",
+        "semester": 2
+      },
+      "geometry": {
+        "coordinates": [
+          -6.928843,
+          52.839093
+        ],
+        "type": "Point"
+      },
+      "id": "ef3178217fcc120539565175149eee28"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "",
+        "link": "",
+        "student": "Caroline Flynn",
+        "semester": 1
+      },
+      "geometry": {
+        "coordinates": [
+          -6.927259,
+          52.83488
+        ],
+        "type": "Point"
+      },
+      "id": "f87d678c794096a491ac2f4fd88ea505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pollerton Little",
+        "link": "",
+        "student": "Philip O'Brien",
+        "semester": 2
+      },
+      "geometry": {
+        "coordinates": [
+          -6.92036,
+          52.845703
+        ],
+        "type": "Point"
+      },
+      "id": "fceb04eb15d78cf985ba6a7cdf2a3955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Community Resilience Housing, Carlow",
+        "link": "",
+        "student": "Finbarr Duerden",
+        "semester": 2
+      },
+      "geometry": {
+        "coordinates": [
+          -6.931107,
+          52.83717
+        ],
+        "type": "Point"
+      },
+      "id": "ffa45447138ef4bec0e4d95d1425bd2a"
+    }
+  ],
+  "type": "FeatureCollection"
+}
