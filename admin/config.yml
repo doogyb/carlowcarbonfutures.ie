@@ -3,7 +3,7 @@ backend:
   branch: main # Branch to update (optional; defaults to master)
 
 media_folder: "images/uploads" # Media files will be stored in the repo under images/uploads
-public_folder: "public/"
+# public_folder: "public/"
 collections:
   - name: "marker" # Used in routes, e.g., /admin/collections/blog
     label: "marker" # Used in the UI
