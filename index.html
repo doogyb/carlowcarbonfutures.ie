@@ -306,7 +306,12 @@
       map.on("mouseleave", "clusters", function () {
         map.getCanvas().style.cursor = "";
       });
-
+ map.on("mouseenter", "unclustered-point", function () {
+        map.getCanvas().style.cursor = "pointer";
+      });
+      map.on("mouseleave", "unclustered-point", function () {
+        map.getCanvas().style.cursor = "";
+      });
       map.on('movestart', function () {
         // reset features filter as the map starts moving
         map.setFilter('unclustered-point', ['has', 'title']);
