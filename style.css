@@ -1,0 +1,137 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.mapboxgl-popup {
+    max-width: 400px;
+    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+#main {
+    display: flex;
+}
+
+#map-container {
+    position: relative;
+    width: 100%;
+}
+
+#map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.map-overlay {
+    width: 15vw;
+    height: 100vh;
+    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    background-color: #fff;
+    max-height: 100%;
+    overflow: hidden;
+}
+
+#sidebar {
+    /* position: absolute; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    width: 15vw;
+    padding: 0 30px;
+    height: 100vh;
+
+    position: relative;
+
+
+    /* width: 15%;
+    top: 0;
+    bottom: 0;
+    left: 0; */
+    border-right: 3px solid #F05E22;
+    max-height: 100%;
+    overflow: scroll;
+}
+
+#sidebar::-webkit-scrollbar {
+    display: none;
+}
+
+#sidebar-main p {
+    padding: 0 60px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+#tud {
+    margin-top: 15px;
+    width: 90%;
+    /* position: absolute;bottom: 0;
+left: 0; */
+}
+
+.map-overlay fieldset {
+    display: none;
+    background: #F05E22;
+    border: none;
+    padding: 10px;
+    margin: 0;
+}
+
+.map-overlay input {
+    display: block;
+    border: none;
+    width: 100%;
+    border-radius: 3px;
+    padding: 10px;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.map-overlay .listing {
+    overflow: auto;
+    max-height: 100%;
+}
+
+.map-overlay .listing>* {
+    display: block;
+    padding: 5px 10px;
+    margin: 0;
+}
+
+.map-overlay .listing a {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    color: #404;
+    text-decoration: none;
+}
+
+.map-overlay .listing a:last-child {
+    border: none;
+}
+
+.map-overlay .listing a:hover {
+    background: #f0f0f0;
+}
+
+.map-overlay .listing button {
+
+    width: 100%;
+    background-color: #fff;
+    border: none;
+
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+
+.map-overlay .listing button:hover {
+    background-color: #f5723e;
+}
