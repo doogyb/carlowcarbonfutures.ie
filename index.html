@@ -5,16 +5,23 @@
   <meta charset="utf-8">
   <title>Carlow Carbon Futures</title>
   <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+
   <link href="https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/segoe-fonts@1.0.1/segoe-fonts.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+        integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+        crossorigin="anonymous" />
 
-  <link href="css/style.css" media='all' rel="stylesheet">
+  <link rel='stylesheet' href='css/style.css' />
   <link rel='stylesheet' media='screen and (max-width: 1900px)' href='css/medium.css' />
-  <link rel='stylesheet' media='screen and (max-width: 800px)' href='css/small.css' />
+  <link rel='stylesheet' media='screen and (max-width: 1024px)' href='css/small.css' />
 
   <script src="https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.js"></script>
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/fuse.js/dist/fuse.js"></script>
+  <script
+          src="https://code.jquery.com/jquery-3.6.0.min.js"
+          integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+          crossorigin="anonymous"></script>
 
 </head>
 
@@ -47,15 +54,30 @@
       <img id="tud" src="assets/tud logo.jpg">
     </div>
 
+    <div id="header">
+      <img class="logo" src="assets/Carlow_Carbon_Futures_DSA2021_LOGO.png">
+    </div>
+
     <div class="map-overlay">
       <fieldset>
         <input id="feature-filter" type="text" placeholder="Filter results by name">
       </fieldset>
       <div id="feature-listing" class="listing"></div>
+      <div id="close" style="display: none"><i class="fas fa-times"></i>
+
+      </div>
     </div>
     <div id="map-container">
       <div id="map"></div>
     </div>
+    <!-- <div id="footer">
+      <img id="tud-footer" src="assets/tud logo.jpg">
+      <div id="footer-info">
+        For a full range of group projects, please see:<br>
+        https:://www.google.com
+      </div>
+      <img id="dsa-footer" src="">
+    </div> -->
   </div>
 
   <script src="js/map.js"></script>

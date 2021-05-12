@@ -1,0 +1,131 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.mapboxgl-popup {
+    max-width: 400px;
+    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+#header {
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#header .logo {
+    /* width: 100%; */
+    height: 100%;
+}
+
+#main {
+    display: flex;
+    flex-direction: column;
+}
+
+#map-container {
+    position: relative;
+    width: 100%;
+    height: 73vh;
+}
+
+#map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+#logo {
+    width: 100%;
+}
+
+#sidebar {
+    display: none;
+}
+
+
+.map-overlay {
+    width: 100%;
+    height: 10%;
+    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    background-color: #fff;
+    overflow: scroll;
+    border-bottom: 2px darkgrey;
+}
+
+.map-overlay fieldset {
+    display: none;
+    background: #F05E22;
+    border: none;
+    padding: 10px;
+    margin: 0;
+}
+
+.map-overlay input {
+    display: block;
+    border: none;
+    width: 100%;
+    border-radius: 3px;
+    padding: 10px;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.map-overlay .listing {
+    display: none;
+    height: 50vh;
+}
+
+#close {
+    color: #F05E22;
+    padding: 10px 0;
+    text-align: center;
+    border-bottom: 1px solid #F05E22;
+}
+
+/* .map-overlay .listing>* {
+    display: block;
+    padding: 5px 10px;
+    margin: 0;
+} */
+
+.map-overlay .listing button {
+
+    width: 100%;
+    background-color: #fff;
+    border: none;
+    font-size: .9rem;
+
+
+    color: black;
+    padding: 15px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+}
+
+.map-overlay .listing button:hover {
+    background-color: #f5723e;
+}
+
+
+#sidebar {
+    display: none;
+}
+
+#footer {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: space-around;
+    height: 5vh;
+}
+
+#tud-footer {
+    height: 100%;
+}

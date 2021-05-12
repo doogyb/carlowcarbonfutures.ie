@@ -142,3 +142,8 @@ left: 0; */
 .map-overlay .listing button:hover {
     background-color: #f5723e;
 }
+
+#header,
+#footer {
+    display: none;
+}

@@ -1,5 +1,29 @@
 
+document.addEventListener('DOMContentLoaded', function () {
 
+    $("#feature-filter").on('focus', function () {
+        var screenWidth = $(window).width();
+        if (screenWidth < 1024) {
+            console.log("Show that")
+            $('#close').show()
+            $('.map-overlay').css('height', '100%');
+            $('#feature-listing').show();
+        }
+    });
+
+    $('#close').on('click', function () {
+        console.log("HIIIIDE");
+        $('#feature-listing').hide();
+        $('#close').hide();
+    })
+
+    $(window).resize(function () {
+        var screenWidth = $(window).width();
+        if (screenWidth >= 1024) {
+            $('#feature-listing').show();
+        }
+    });
+});
 mapboxgl.accessToken =
     "pk.eyJ1Ijoic2FzaGFrdXNobmlyZW5rbyIsImEiOiJja283M3VtcmgwNWg2MnFxa2Y2YWR6Mm54In0.MCYIixuDXkWh5MRGL_CygA";
 var map = new mapboxgl.Map({
@@ -43,10 +67,14 @@ function renderListings(features) {
             });
             item.addEventListener('click', function () {
                 map.easeTo({
-                    duration: 2500,
+                    duration: 2000,
                     center: feature.geometry.coordinates,
                     zoom: 15
                 });
+                $('#feature-filter').val(prop.title)
+                $('#feature-listing').hide();
+                $('#close').hide();
+
             })
             listingEl.appendChild(item);
         });

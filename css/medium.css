@@ -151,3 +151,8 @@ left: 0; */
     max-height: 100%;
     overflow: hidden;
 }
+
+#header,
+#footer {
+    display: none;
+}
