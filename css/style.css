@@ -23,6 +23,8 @@ body {
 
 #logo {
     width: 100%;
+    margin-bottom: -75px;
+
 }
 
 #sidebar {
@@ -30,8 +32,9 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    align-items: stretch;
-    width: 15vw;
+    align-items: center;
+
+    width: 25vw;
     padding: 0 30px;
     height: 100vh;
 
@@ -52,6 +55,12 @@ body {
     display: none;
 }
 
+#sidebar-main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 
 #sidebar-main h1 {
     font-weight: 700;
@@ -62,12 +71,13 @@ body {
     padding: 0 1vw;
     text-align: justify;
     text-justify: inter-word;
+    font-size: 1.01rem;
 }
 
 
 #tud {
     margin-top: 15px;
-    width: 90%;
+    width: 80%;
     /* position: absolute;bottom: 0;
 left: 0; */
 }

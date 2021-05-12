@@ -29,6 +29,7 @@ body {
 
 #logo {
     width: 100%;
+    margin-bottom: -50px;
 }
 
 #sidebar {
@@ -37,7 +38,7 @@ body {
     flex-direction: column;
     justify-content: space-between;
     align-items: stretch;
-    width: 15vw;
+    width: 25vw;
     padding: 0 30px;
     height: 100vh;
 
@@ -66,7 +67,7 @@ body {
 }
 
 #sidebar-main p {
-    font-size: .8rem;
+    font-size: .9rem;
     padding: 0 1vw;
     text-align: justify;
     text-justify: inter-word;
