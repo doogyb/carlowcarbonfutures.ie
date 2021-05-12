@@ -37,8 +37,8 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    align-items: stretch;
-    width: 25vw;
+    align-items: center;
+    width: 45vw;
     padding: 0 30px;
     height: 100vh;
 
@@ -67,7 +67,7 @@ body {
 }
 
 #sidebar-main p {
-    font-size: .9rem;
+    font-size: 1rem;
     padding: 0 1vw;
     text-align: justify;
     text-justify: inter-word;
@@ -76,7 +76,7 @@ body {
 
 #tud {
     margin-top: 15px;
-    width: 90%;
+    width: 70%;
     /* position: absolute;bottom: 0;
 left: 0; */
 }
