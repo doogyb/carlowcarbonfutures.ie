@@ -666,8 +666,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "",
-        "link": "https://sem-2.webflow.io/",
+        "title": "Golf to Hemp",
+        "link": "https://cian-o-byrne-sem-2.webflow.io/",
         "student": "Cian O'Byrne",
         "semester": 2
       },
@@ -1891,8 +1891,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "",
-        "link": "https://semester-1.webflow.io/",
+        "title": "https://cian-o-byrne-sem-1.webflow.io/",
+        "link": "https://cian-o-byrne-sem-1.webflow.io/",
         "student": "Cian O'Byrne",
         "semester": 1
       },
