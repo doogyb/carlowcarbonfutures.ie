@@ -462,6 +462,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Carlow Velotopia",
+        "link": "https://cormac-dockerys-sem-2.webflow.io/",
+        "student": "Cormac Dockery",
+        "semester": 2
+      },
+      "geometry": {
+        "coordinates": [
+          -6.937105,
+          52.83784
+        ],
+        "type": "Point"
+      },
+      "id": "31ac8416e01bcec3cf52ba85f8bd66dd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Wool Scouring Facility",
         "link": "https://carlow-carbon-futures-caoimhe-sem1.webflow.io/",
         "student": "Caoimhe Power",
@@ -700,9 +717,9 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Ressilient Architecture",
+        "title": "Resilient Architecture",
         "link": "https://moahogarth-sem01.webflow.io/",
-        "student": "Moa Hogart",
+        "student": "Moa Hogarth",
         "semester": 1
       },
       "geometry": {
@@ -730,6 +747,23 @@
         "type": "Point"
       },
       "id": "43b858f96660a16098afb86a4c4423f7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Graiguecullen Green Housing",
+        "link": "https://ellen-brien-semester-2.webflow.io/",
+        "student": "Ellen Brien",
+        "semester": 2
+      },
+      "geometry": {
+        "coordinates": [
+          -6.942131,
+          52.842658
+        ],
+        "type": "Point"
+      },
+      "id": "4624ed7f38ca76e4a0c2f3e0832df1d0"
     },
     {
       "type": "Feature",
@@ -820,7 +854,7 @@
       "type": "Feature",
       "properties": {
         "title": "",
-        "link": "https://amy-brosnahan-sem-2.webflow.io/",
+        "link": "https://jessica-doherty-semester-2.webflow.io/?fbclid=IwAR1ugvpq2QYo-jQIaLx7EQgYrGd6pGo9kJoaxeSlcyOIlzJYMlunoP5yW1Q",
         "student": "Mairead McCarthy",
         "semester": 2
       },
@@ -1229,7 +1263,7 @@
       "type": "Feature",
       "properties": {
         "title": "Re-Carlow Recovery",
-        "link": "https://linda-darcys-semester-2-project.webflow.io/",
+        "link": "https://linda-darcys-semester-1-project.webflow.io/",
         "student": "Linda D'Arcy",
         "semester": 1
       },
@@ -1483,8 +1517,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "",
-        "link": "",
+        "title": "Elderly Co-Housing",
+        "link": "https://jessica-doherty-semester-2.webflow.io/?fbclid=IwAR1ugvpq2QYo-jQIaLx7EQgYrGd6pGo9kJoaxeSlcyOIlzJYMlunoP5yW1Q",
         "student": "Jessica Doherty",
         "semester": 2
       },
@@ -1552,7 +1586,7 @@
       "type": "Feature",
       "properties": {
         "title": "Residential Retail",
-        "link": "https://ainelogan-semester2.webflow.io/",
+        "link": "https://caroline-flynn-semester-2.webflow.io/",
         "student": "Caroline Flynn",
         "semester": 2
       },
@@ -1654,7 +1688,7 @@
       "type": "Feature",
       "properties": {
         "title": "Slaney Trust Centre",
-        "link": "https://amy-brosnahan-sem-1.webflow.io/",
+        "link": "https://caroline-flynn-semester-2.webflow.io/",
         "student": "Amy Brosnahan",
         "semester": 1
       },
@@ -1700,6 +1734,23 @@
         "type": "Point"
       },
       "id": "b5dab9e939119e18be4fdea9fc6f1650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hanover Park Community Hub",
+        "link": "https://ellen-brien-semester-1.webflow.io/",
+        "student": "Ellen Brien",
+        "semester": 1
+      },
+      "geometry": {
+        "coordinates": [
+          -6.930228,
+          52.834478
+        ],
+        "type": "Point"
+      },
+      "id": "b8e21e50c2464354ff4da598c113f2ba"
     },
     {
       "type": "Feature",
@@ -1891,6 +1942,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Carlow Cycle Centre",
+        "link": "https://cormac-dockerys-sem-1.webflow.io/",
+        "student": "Cormac Dockery",
+        "semester": 1
+      },
+      "geometry": {
+        "coordinates": [
+          -6.931963,
+          52.837889
+        ],
+        "type": "Point"
+      },
+      "id": "d1bc467125e09a8702cbbd46dbbd350f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Low-Tech Farming Solutions",
         "link": "https://semester-1-low-tech-farming-solutions.webflow.io/",
         "student": "Karl Twomey",
@@ -1925,15 +1993,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "",
-        "link": "",
+        "title": "Clothing Recycling Centre",
+        "link": "https://jessica-doherty-semester-1.webflow.io/?fbclid=IwAR1ugvpq2QYo-jQIaLx7EQgYrGd6pGo9kJoaxeSlcyOIlzJYMlunoP5yW1Q",
         "student": "Jessica Doherty",
         "semester": 1
       },
       "geometry": {
         "coordinates": [
-          -6.733492,
-          52.803439
+          -6.733662,
+          52.803456
         ],
         "type": "Point"
       },
@@ -2017,8 +2085,8 @@
       },
       "geometry": {
         "coordinates": [
-          -6.930603,
-          52.838243
+          -6.930867,
+          52.838057
         ],
         "type": "Point"
       },
@@ -2029,7 +2097,7 @@
       "properties": {
         "title": "Soft Infrastructure",
         "link": "https://moahogarth-sem02.webflow.io/",
-        "student": "Moa Hogart",
+        "student": "Moa Hogarth",
         "semester": 2
       },
       "geometry": {
@@ -2255,8 +2323,8 @@
       },
       "geometry": {
         "coordinates": [
-          -6.738562,
-          52.803468
+          -6.738668,
+          52.802439
         ],
         "type": "Point"
       },
@@ -2272,8 +2340,8 @@
       },
       "geometry": {
         "coordinates": [
-          -6.902959,
-          52.84892
+          -6.902702,
+          52.848177
         ],
         "type": "Point"
       },
