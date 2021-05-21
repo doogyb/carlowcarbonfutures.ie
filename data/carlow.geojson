@@ -88,6 +88,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Framing Carlow's Edge",
+        "link": "https://gabriella-brady-semester-2.webflow.io/",
+        "student": "Gabriella Brady",
+        "semester": 2
+      },
+      "geometry": {
+        "coordinates": [
+          -6.937641,
+          52.819679
+        ],
+        "type": "Point"
+      },
+      "id": "0a14ba222be8df757b8f29fa4c9be6be"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Family Housing",
         "link": "https://jamila-housing-project.webflow.io/",
         "student": "Jamila Al Ali",
@@ -463,8 +480,8 @@
       "type": "Feature",
       "properties": {
         "title": "Carlow Velotopia",
-        "link": "https://cormac-dockerys-sem-2.webflow.io/",
-        "student": "Cormac Dockery",
+        "link": "https://cormac-dockrys-sem-2.webflow.io/?fbclid=IwAR3BKFpXzv4oNqlSOSBrSzr0HWBgMDMpvOp6zI5_XDsS6w8XWHFTdcMgdt0",
+        "student": "Cormac Dockry",
         "semester": 2
       },
       "geometry": {
@@ -1687,10 +1704,10 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Slaney Trust Centre",
-        "link": "https://caroline-flynn-semester-2.webflow.io/",
+        "title": "The Patterning of Space",
+        "link": "https://amy-brosnahan-sem-2.webflow.io/",
         "student": "Amy Brosnahan",
-        "semester": 1
+        "semester": 2
       },
       "geometry": {
         "coordinates": [
@@ -1943,8 +1960,8 @@
       "type": "Feature",
       "properties": {
         "title": "Carlow Cycle Centre",
-        "link": "https://cormac-dockerys-sem-1.webflow.io/",
-        "student": "Cormac Dockery",
+        "link": "https://cormac-dockrys-sem-2.webflow.io/?fbclid=IwAR0F5nrRB9yL7oEPdJYyzOOBhJfP_6i5lQpfgiTCS4jvbdQj0GzYVsNdX1s",
+        "student": "Cormac Dockry",
         "semester": 1
       },
       "geometry": {
@@ -2146,6 +2163,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Suburban Densification",
+        "link": "https://gabriella-brady-semester-1.webflow.io/",
+        "student": "Gabriella Brady",
+        "semester": 1
+      },
+      "geometry": {
+        "coordinates": [
+          -6.932539,
+          52.825594
+        ],
+        "type": "Point"
+      },
+      "id": "e995e847cddb5532c7f99d4ff9d03a87"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "River Burrin Eco-Community",
         "link": "https://elizabeth-bryan-sem2.webflow.io/",
         "student": "Elizabeth Bryan",
@@ -2316,10 +2350,10 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "The Patterning of Space",
-        "link": "https://amy-brosnahan-sem-2.webflow.io/",
+        "title": "Slaney Trust Centre",
+        "link": "https://amy-brosnahan-sem-1.webflow.io/",
         "student": "Amy Brosnahan",
-        "semester": 2
+        "semester": 1
       },
       "geometry": {
         "coordinates": [
